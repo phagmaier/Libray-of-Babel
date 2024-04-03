@@ -9,7 +9,7 @@ than there specific counterparts. This code seeks to provide a silly example of 
 generating a infinite library of all (almost) all possibl books that could be generated using 
 the english language and printable ACII characters. As you can see from the code generating a entire
 (infinite) library is actually easier, smaller, and simplier than generating something like a particular book given
-that the book isn't absurdley small.
+that the book isn't absurdley small. Idea inspired by th [Borges short story](https://blogs.commons.georgetown.edu/modernities-working-group/files/2013/07/borges_the-library-of-babel.pdf) of the same name.
 
 
 ## File Table
