@@ -1,7 +1,7 @@
 # LIBRARY OF BABEL
 
 ## DESCRIPTION
-Generating a lbrary of all possible books (in ASCII).
+Generating a library of all possible books (in ASCII).
 I was reading about [Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
 and I discovered something unintuitive about entropy and comlexity that I found interesting.
 I discovered that things that are vague or less specific have a lower Kolmogorov complexity
