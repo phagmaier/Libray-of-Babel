@@ -7,8 +7,8 @@ and I discovered something unintuitive about entropy and comlexity that I found 
 I discovered that things that are vague or less specific have a lower Kolmogorov complexity
 than there specific counterparts. This code seeks to provide a silly example of this by
 generating a infinite library of all (almost) all possibl books that could be generated using 
-the english language and limiting yourself to printable ACII characters. So generating a entire
-library is actually a smaller and simplier algorithm than generating something like a particular book given
+the english language and printable ACII characters. As you can see from the code generating a entire
+(infinite) library is actually easier, smaller, and simplier than generating something like a particular book given
 that the book isn't absurdley small.
 
 
@@ -21,12 +21,10 @@ that the book isn't absurdley small.
 
 ## How to run
 DO NOT RUN! 
-It won't destroy your computer but it's an infinite library and computer tend not to handle infinities very well.
-But if you want to
+It won't destroy your computer but it's an infinite library and computers tend not to handle infinities very well.
+But if you want to:
 
-'''
-python main.py
-'''
+```python main.py```
 
 
 
